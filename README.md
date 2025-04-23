@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi there! I'm Mouna  
+🚀 Aspiring Full Stack Developer | MCA Student 
 
-<!--
-**Mounashree46/Mounashree46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate learner and developer currently pursuing my MCA. I enjoy building web applications and exploring new technologies. I'm committed to continuously improving my skills and contributing to meaningful projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills & Technologies
+
+**Programming Languages**: Python, Java  
+**Web Technologies**: HTML, CSS, Bootstrap  
+**Databases**: MySQL  
+**Tools & Platforms**: Git, GitHub, VS Code  
+**Soft Skills**: Communication, Teamwork, Problem Solving
+
+---
+
+## 🛠️ Projects
+
+🔹 **ATM Web App**  
+A simple banking application with features like deposit, withdrawal, and balance check.
+
+🔹 **Weather App**  
+Displays real-time weather data using a public API with a clean Bootstrap UI.
+
+---
+
+## 🎯 Goals
+
+- 💡 Build full-stack applications using modern technologies  
+- 🌱 Keep learning and exploring backend frameworks  
+ 
+
+---
+
+## 📫 Connect with Me
+
+📩 Email: mouna200364@gmail.com  
+🏗 GitHub: [mounashree123](https://github.com/mounashree123)  
+
+
