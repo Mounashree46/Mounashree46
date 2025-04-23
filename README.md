@@ -36,6 +36,6 @@ Displays real-time weather data using a public API with a clean Bootstrap UI.
 ## 📫 Connect with Me
 
 📩 Email: mouna200364@gmail.com  
-🏗 GitHub: [mounashree123](https://github.com/mounashree123)  
+🏗 GitHub: [mounashree123](https://github.com/mounashree46)  
 
 
