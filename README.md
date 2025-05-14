@@ -29,16 +29,11 @@ Displays real-time weather data using a public API with a clean Bootstrap UI.
 
 - 💡 Build full-stack applications using modern technologies  
 - 🌱 Keep learning and exploring backend frameworks  
- 
 
 ---
 
 ## 📫 Connect with Me
 
 📩 Email: mouna200364@gmail.com  
-🏗 GitHub: https://github.com/mounashree46 
-🔗LinkedIn: www.linkedin.com/in/Mounashreem46
-
-
-
-
+🏗 GitHub: [https://github.com/mounashree46](https://github.com/mounashree46)  
+🔗 LinkedIn: [www.linkedin.com/in/Mounashreem46](www.linkedin.com/in/Mounashreem46)
