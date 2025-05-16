@@ -22,7 +22,7 @@ I'm a passionate learner and developer currently pursuing my MCA. I enjoy buildi
 ## 🛠️ Projects
 
 🔹 **ATM Web App**  
-A simple banking application with features like deposit, withdrawal, and balance check.  
+A simple banking app with deposit, withdrawal, and balance check.  
 [View Repo](https://github.com/mounashree46/ATM-Web-App)  
 
 🔹 **Weather App**  
@@ -33,18 +33,19 @@ Displays real-time weather data using a public API with a clean Bootstrap UI.
 
 ## 📜 Certifications
 
-- ✅ [Java Programming: Principles of Software Design – Coursera](https://coursera.org/share/e660645cf755b9063b8247cb098b967c)
+- ✅ [Java Programming: Principles of Software Design – Coursera](https://coursera.org/share/e660645cf755b9063b8247cb098b967c)  
 - ✅ [Programming for Everybody (Getting Started with Python) – Coursera](https://coursera.org/share/fdb8c24ca5c2d5f10ec64dde79611ede)  
 - ✅ Data Structures and Algorithms using Java – Infosys Springboard (certificate available upon request)  
 - ✅ Database Management System – Infosys Springboard (certificate available upon request)
 
+---
 
 ## 📊 GitHub Stats
 
-![Mouna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mounashree46&show_icons=true&theme=tokyonight)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounashree46&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Mouna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mounashree46&show_icons=true&theme=tokyonight "Mouna's GitHub Stats")  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounashree46&layout=compact&theme=tokyonight "Mouna's Top Languages")](https://github.com/anuraghazra/github-readme-stats)
 
-
+---
 
 ## 📫 Connect with Me
 
