@@ -5,19 +5,6 @@ I'm a passionate learner and developer currently pursuing my MCA. I enjoy buildi
 
 ---
 
-## 🔥 Skills & Technologies
-
-**Programming Languages**:  
-Python  
-Java  
-
-**Web Technologies**: HTML, CSS, Bootstrap  
-**Databases**: MySQL  
-**Tools & Platforms**: Git, GitHub, VS Code  
-**Soft Skills**: Communication, Teamwork, Problem Solving
-
----
-
 ## 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -42,24 +29,6 @@ A simple banking application with features like deposit, withdrawal, and balance
 Displays real-time weather data using a public API with a clean Bootstrap UI.  
 [View Repo](https://github.com/mounashree46/Weather-App)
 
----
-
-## 📚 Currently Learning
-
-- JavaScript and DOM manipulation  
-- Git branching and advanced GitHub features  
-- Backend fundamentals (Node.js or Java Spring)
-
----
-
-## 🎯 Upcoming Goals
-
-- Build a full-stack CRUD application  
-- Learn React.js for frontend  
-- Contribute to open source projects  
-- Get certified in backend or cloud technologies
-
----
 
 ## 📊 GitHub Stats
 
