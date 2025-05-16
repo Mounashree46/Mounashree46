@@ -29,6 +29,15 @@ A simple banking application with features like deposit, withdrawal, and balance
 Displays real-time weather data using a public API with a clean Bootstrap UI.  
 [View Repo](https://github.com/mounashree46/Weather-App)
 
+---
+
+## 📜 Certifications
+
+- ✅ **Java Programming: Principles of Software Design** – [Coursera](https://www.coursera.org/)
+- ✅ **Data Structures and Algorithms using Java** – [Infosys Springboard](https://infyspringboard.onwingspan.com/)
+- ✅ **Programming for Everybody (Getting Started with Python)** – [Coursera](https://www.coursera.org/)
+- ✅ **Database Management System** – [Infosys Springboard](https://infyspringboard.onwingspan.com/)
+
 
 ## 📊 GitHub Stats
 
