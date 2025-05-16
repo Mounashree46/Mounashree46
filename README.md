@@ -34,7 +34,7 @@ Displays real-time weather data using a public API with a clean Bootstrap UI.
 ## 📜 Certifications
 
 - ✅ [Java Programming: Principles of Software Design – Coursera](https://coursera.org/share/e660645cf755b9063b8247cb098b967c)
-- ✅ Programming for Everybody (Getting Started with Python) – [Coursera](https://www.coursera.org/)
+- ✅ [Programming for Everybody (Getting Started with Python) – Coursera](https://coursera.org/share/fdb8c24ca5c2d5f10ec64dde79611ede)  
 - ✅ Data Structures and Algorithms using Java – Infosys Springboard (certificate available upon request)  
 - ✅ Database Management System – Infosys Springboard (certificate available upon request)
 
