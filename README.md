@@ -33,10 +33,11 @@ Displays real-time weather data using a public API with a clean Bootstrap UI.
 
 ## 📜 Certifications
 
-- ✅ **Java Programming: Principles of Software Design** – [Coursera](https://www.coursera.org/)
-- ✅ **Data Structures and Algorithms using Java** – [Infosys Springboard](https://infyspringboard.onwingspan.com/)
-- ✅ **Programming for Everybody (Getting Started with Python)** – [Coursera](https://www.coursera.org/)
-- ✅ **Database Management System** – [Infosys Springboard](https://infyspringboard.onwingspan.com/)
+- ✅ [Java Programming: Principles of Software Design – Coursera](https://coursera.org/share/e660645cf755b9063b8247cb098b967c)
+- ✅ Data Structures and Algorithms using Java – [Infosys Springboard](https://infyspringboard.onwingspan.com/)
+- ✅ Programming for Everybody (Getting Started with Python) – [Coursera](https://www.coursera.org/)
+- ✅ Database Management System – [Infosys Springboard](https://infyspringboard.onwingspan.com/)
+
 
 
 ## 📊 GitHub Stats
