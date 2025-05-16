@@ -7,13 +7,28 @@ I'm a passionate learner and developer currently pursuing my MCA. I enjoy buildi
 
 ## 🔥 Skills & Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+**Programming Languages**:  
+Python  
+Java  
+
+**Web Technologies**: HTML, CSS, Bootstrap  
+**Databases**: MySQL  
+**Tools & Platforms**: Git, GitHub, VS Code  
+**Soft Skills**: Communication, Teamwork, Problem Solving
+
+---
+
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
 
@@ -29,10 +44,31 @@ Displays real-time weather data using a public API with a clean Bootstrap UI.
 
 ---
 
-## 🎯 Goals
+## 📚 Currently Learning
 
-- 💡 Build full-stack applications using modern technologies  
-- 🌱 Keep learning and exploring backend frameworks  
+- JavaScript and DOM manipulation  
+- Git branching and advanced GitHub features  
+- Backend fundamentals (Node.js or Java Spring)
+
+---
+
+## 🎯 Upcoming Goals
+
+- Build a full-stack CRUD application  
+- Learn React.js for frontend  
+- Contribute to open source projects  
+- Get certified in backend or cloud technologies
+
+---
+
+## 📊 GitHub Stats
+
+![Mouna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mounashree46&show_icons=true&theme=tokyonight)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounashree46&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mounashree46&style=flat-square&color=blue)
 
 ---
 
@@ -44,8 +80,6 @@ Displays real-time weather data using a public API with a clean Bootstrap UI.
 
 ---
 
-![Mouna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mounashree46&show_icons=true&theme=radical)
+> "Continuous learning is the key to growth."  
 
----
-
-> "Continuous learning is the key to growth."
+🚀 I'm open to internships, freelance opportunities, and collaborations! Let's connect. 😊
