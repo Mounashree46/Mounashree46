@@ -29,26 +29,13 @@ A simple banking application with features like deposit, withdrawal, and balance
 Displays real-time weather data using a public API with a clean Bootstrap UI.  
 [View Repo](https://github.com/mounashree46/Weather-App)
 
----
-
-## 📚 Currently Learning
-
-- JavaScript and DOM manipulation  
-- Git branching and advanced GitHub features  
-- Backend fundamentals (Node.js or Java Spring)
-
----
 
 ## 📊 GitHub Stats
 
 ![Mouna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mounashree46&show_icons=true&theme=tokyonight)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounashree46&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
-![Visitor Count](https://komarev.com/ghpvc/?username=mounashree46&style=flat-square&color=blue)
-
----
 
 ## 📫 Connect with Me
 
