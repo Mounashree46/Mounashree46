@@ -57,4 +57,4 @@ Displays real-time weather data using a public API with a clean Bootstrap UI.
 
 > "Continuous learning is the key to growth."  
 
-🚀 I'm open to internships, freelance opportunities, and collaborations! Let's connect. 😊
+🚀 I'm open to internships! Let's connect. 😊
